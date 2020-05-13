@@ -2,7 +2,7 @@ import functools
 
 
 def wrapper(func):
-    """Wrapping a function"""
+    """Template for decorators"""
 
     @functools.wraps(func)
     def _wrapper(*args, **kwargs):
