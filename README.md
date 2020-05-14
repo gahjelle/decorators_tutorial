@@ -43,7 +43,7 @@ The following list contains links directly to the different sections in the vide
     - [1:17:21](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=77m21s): Task 3: `@register` (8 min)
     - [1:25:02](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=85m02s): Task 3: Solution (7 min)
 
-- [1:32:18](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=92m18s): Advanced Decorators (70 min)
+- [1:32:18](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=92m18s): Advanced Decorators (91 min)
     - [1:34:12](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=94m12s): Task 4: `@count_calls` (6 min)
     - [1:40:30](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=100m30s): Keeping State With Function Attributes (3 min)
     - [1:43:45](https://www.youtube.com/watch?v=T8CQwGIsrx4&t=103m45s): Task 4: Solution (5 min)
