@@ -148,7 +148,7 @@ function = wrapper(function)
 
 ---
 
-# Excercise
+# Exercise
 
 
 
