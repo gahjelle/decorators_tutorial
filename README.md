@@ -4,7 +4,7 @@ This repository contains material for the **Introduction to Decorators - Power U
 
 I've had the pleasure of teaching about decorators at [PyCon US](https://us.pycon.org/) several times. Each occasion has its own page with all the materials. The sessions have also been filmed and are available on YouTube:
 
-- **PyCon 2023 Salt Lake City** [ [Materials](2023/) <!-- - [Video](https://youtu.be/VWZAh1QrqRE) --> ]
+- **PyCon 2023 Salt Lake City** [ [Materials](2023/) - [Video](https://youtu.be/wHpphKNegSI) ]
 - **PyCon 2021 Online** [ [Materials](2021/) - [Video](https://youtu.be/VWZAh1QrqRE) ]
 - **PyCon 2020 Online** [ [Materials](2020/) - [Video](https://youtu.be/T8CQwGIsrx4) ]
 

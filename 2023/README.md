@@ -2,12 +2,11 @@
 
 This repository contains supporting material for the **Introduction to Decorators - Power Up Your Python Code** tutorial I presented at the [Pycon US 2023](https://us.pycon.org/2023/) conference in Salt Lake City, Utah.
 
-<!-- The tutorial is available as a video on [YouTube](https://youtu.be/VWZAh1QrqRE). Thanks to PyCon US for allowing me to present. -->
-
+The tutorial is available as a video on [YouTube](https://youtu.be/wHpphKNegSI). Thanks to PyCon US for allowing me to present.
 
 ## Exercises
 
-The tutorial is centered around several exercises asking you to implement different decorators and reinforcing concepts introduced during the tutorial. The exercises are available as [PDF-slides](exercises.pdf) and are also listed below. Exercise 5, 7, and 8 weren't covered in the tutorial. Solutions to the exercises are available in the [Code section](#code).
+The tutorial is centered around several exercises asking you to implement different decorators and reinforcing concepts introduced during the tutorial. The exercises are available as [PDF slides](exercises.pdf) and are also listed below. Exercises 5, 7, and 8 weren't covered in the tutorial. Solutions to the exercises are available in the [Code section](#code).
 
 ### Exercise 1
 
